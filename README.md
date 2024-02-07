@@ -30,4 +30,9 @@ For detailed installation instructions and usage, please refer to the Working Pr
 About Us
 This project is developed by [Your Organization/Team Name]. For any inquiries, please contact [Your Contact Information].
 
-Thank you for choosing WeighSwift!
+Thank you for choosing WeighSwift!!
+[e829872f0fcb6d33708e484755ce57ed0259b7d0](https://github.com/coders2345/weighswift/assets/95532279/0be108b1-c08a-4224-a31a-a94bc44b6734)
+![2f87eb2b7313e38f15fab27eb292230320975b99](https://github.com/coders2345/weighswift/assets/95532279/4b06b12c-9f1d-4891-a137-82c3ca4a37c7)
+![96123efbe5618370d0455a106cc4a4a3a71eecfa](https://github.com/coders2345/weighswift/assets/95532279/6f092bdc-627f-49b1-b2aa-bf03dd93494b)
+![dd83db5abe22e8f1ec8b3f4dcd82bc214835bd6d](https://github.com/coders2345/weighswift/assets/95532279/1cfa3965-876b-4938-8361-57e07b4c7f86)
+
